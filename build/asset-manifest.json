@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b98f5573.css",
+    "main.js": "/static/js/main.29c0dbbf.js",
+    "static/js/787.e3835ec5.chunk.js": "/static/js/787.e3835ec5.chunk.js",
+    "static/media/sir ishaq.jpg": "/static/media/sir ishaq.0ee7c3c1c9bfea14d01a.jpg",
+    "static/media/abiu2.jpg": "/static/media/abiu2.bb28a5830323e65b7d68.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.46ac89a758dff2c8b39c.jpg",
+    "static/media/setting.jpg": "/static/media/setting.e842025435e86dd3041d.jpg",
+    "static/media/sir zeeshan.jpg": "/static/media/sir zeeshan.14f9009133cdccdd1d17.jpg",
+    "static/media/sir qasim.jpg": "/static/media/sir qasim.a982b983d837a1b3f147.jpg",
+    "static/media/Ai.jpg": "/static/media/Ai.a8d439ea27030e709803.jpg",
+    "static/media/gd.jpg": "/static/media/gd.31ed06c4f9dbc9d53b1a.jpg",
+    "static/media/sir inzamam.jpg": "/static/media/sir inzamam.c364702af8efa8dd86af.jpg",
+    "static/media/sir bilal patel.jpg": "/static/media/sir bilal patel.304178ada13349db1141.jpg",
+    "static/media/sir ali.jpg": "/static/media/sir ali.7c048b86b2256fb799e1.jpg",
+    "static/media/sir ghous.jpg": "/static/media/sir ghous.bca418dd55bcbd82a17a.jpg",
+    "static/media/MEAN-Vs-MERN.jpg": "/static/media/MEAN-Vs-MERN.ea73c5c6dfbfbda0452b.jpg",
+    "static/media/saylani-logo.png": "/static/media/saylani-logo.8a7668d525700ca1ee71.png",
+    "index.html": "/index.html",
+    "main.b98f5573.css.map": "/static/css/main.b98f5573.css.map",
+    "main.29c0dbbf.js.map": "/static/js/main.29c0dbbf.js.map",
+    "787.e3835ec5.chunk.js.map": "/static/js/787.e3835ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98f5573.css",
+    "static/js/main.29c0dbbf.js"
+  ]
+}

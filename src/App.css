@@ -1,0 +1,326 @@
+/* slider css start */
+body{
+
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+/* .couserl{
+
+   width: 100%;
+   height: 400px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url(./components/assests/slider3.jpg );
+} */
+.HEAD{
+
+
+ 
+  /* color: rgb(0, 164, 36); */
+  color: #ffffff;
+  font-weight: 650;
+  
+}
+.MD{
+  color: #ffffff;
+
+}
+
+
+/* slider end css */
+
+
+/* course start css */
+
+.c1{
+
+  height: 550px;
+}
+
+
+.c2{
+
+  top: -110%;
+  height: 220px;
+}
+
+
+.img{
+height: 220px;
+border-radius: 10px;
+}
+
+.img1{
+
+height: 300px ;
+border-radius: 10px;
+margin-bottom: -10%;
+}
+
+
+.img2{
+
+height: 300px ;
+border-radius: 10px;
+}
+
+
+.img3{
+
+height: 550px ;
+border-radius: 10px;
+}
+
+.H3AD{
+
+  color: #8ac642;
+  
+
+}
+
+
+.card1 {
+box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+border-radius: 0;
+border: 0;
+}
+
+.card1 {
+transition: transform 0.2s ease-in-out;
+box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+border-radius: 0;
+border: 0;
+margin-bottom: 1em;
+}
+.card1:hover {
+transform: scale(1.1);
+}
+
+.col:hover{
+  transform: scale(1.1);
+  transition: 1s;
+  }
+
+.text {
+background-color:#8ac642;
+color: white;
+font-size: 16px;
+width: 200px;
+height: 30px;
+
+}
+
+
+
+
+
+
+
+
+.text1 {
+background-color:#8ac642;
+color: white;
+font-size: 16px;
+font-weight: 400;
+width: 200px;
+height: 30px;
+margin-top: -10%;
+}
+
+.text2 {
+background-color:#8ac642;
+color: white;
+font-size: 16px;
+width: 250px;
+height: 30px;
+margin-top: -10%;
+}
+
+.text3 {
+background-color:#8ac642;
+color: white;
+font-size: 16px;
+width: 250px;
+height: 30px;
+margin-top: -10%;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .c1 {
+    margin: 20px;
+  }
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .c2 {
+      margin-bottom: -70%;
+    }
+}
+
+
+
+
+/* course end css */
+
+/* form start  */
+
+.card-title{
+
+   text-transform:uppercase;
+   color:#002984;
+   font-size: 18px;
+   font-weight: 600;
+}
+
+.saqib{
+
+  width: 400px;
+  
+}
+
+label{
+
+    position: relative;
+    float: left;
+    margin: 10px;
+  
+}
+
+
+
+/* form end */
+
+
+/* About us start*/
+
+.para{
+
+    text-align: justify;
+    font-size: 18px;
+}
+
+.line2{
+
+  width: 140px;
+  height:5px;
+  background-color: #8ac642;
+  border-radius: 5px;
+}
+
+.p{
+
+  color: #8ac642;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+
+h1{
+
+  color:#000000;
+  font-weight: 600;
+  font-size: 22px;
+
+}
+/* About us End*/
+
+/* footer start  */
+
+.main{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.f1{
+
+  margin: 10px;
+  cursor: pointer;
+}
+
+
+.heading{
+   
+  font-family: 'Indie Flower', cursive;
+  color: #000000;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.last{
+
+  color: #7b7b7a;
+}
+
+/* footer end  */
+
+
+
+.App {
+  text-align: center;
+}
+
+
+
+/* contact start */
+
+.main1{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content:space-around;
+}
+
+.f{
+
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+      .main1{
+
+        width: 80%;
+      
+      }
+
+      .saqib{
+        width: 80%;
+      }
+}
+
+.m1{
+
+    height: 70px;
+}
+
+
+/* contact end */
+
+
+
+.box{
+  width: 90px;
+
+}
+
+.card{
+
+   width: 500px;
+}
+
+.alert {
+  opacity: 1;
+  transition: opacity 0.6s; /* 600ms to fade out */
+}
